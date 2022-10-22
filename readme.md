@@ -16,4 +16,5 @@ This repo will preserve the deep history of memes that comes from the Shiba Clas
 
 Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
 
-![](https://raw.githubusercontent.com/shibcmemes/MinistryofEngineeringMaximalExperiences/914fdfdb2526769ce82d3c189eeb3555f29391c4/memes/221022-banner.png)
+![image](https://user-images.githubusercontent.com/70056410/197328011-79b60f26-1db3-4772-a0e0-4a8b73069b91.png)
+
