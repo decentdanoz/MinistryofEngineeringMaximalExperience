@@ -7,6 +7,7 @@ SHIBCMEMES on the Code is Lawn Chain - Ethereum Classic
 - 💞️ I’m looking to collaborate on engineering maximal experiences
 - 📫 How to reach me: https://twitter.com/ShibcMemes
 
+
 - Resources will contain stock ETC eco stuff for you to  use in your memes and materials.
 - Memes will contain a composite of all that - get creative!
 
