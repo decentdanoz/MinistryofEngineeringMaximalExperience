@@ -16,5 +16,15 @@ This repo will preserve the deep history of memes that comes from the Shiba Clas
 
 Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
 
-![image](https://user-images.githubusercontent.com/70056410/197328011-79b60f26-1db3-4772-a0e0-4a8b73069b91.png)
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/221022-banner.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/eat_your_gpu.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/etc_coleslaw.jpg" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/etcnft_memen.jpg" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_cheque.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_code_is_lawn_1.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_code_is_lawn_2.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_discus.gif" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_discus_etc.gif" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_dominance.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_engage.gif" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shining_shibc.gif" width=50% height=50%>
