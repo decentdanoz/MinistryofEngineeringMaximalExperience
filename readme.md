@@ -15,6 +15,9 @@ SHIBCMEMES on the Code is Lawn Chain - Ethereum Classic
 This repo will preserve the deep history of memes that comes from the Shiba Classic Community.
 
 Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
+![221022-banner](https://user-images.githubusercontent.com/70056410/197374232-57d389a6-b69b-4d84-abe0-8cc61a8212b9.png)
+
+
 
 <table><tr>
 <tr>
