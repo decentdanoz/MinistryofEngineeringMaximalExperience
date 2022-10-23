@@ -64,7 +64,7 @@ shibc_dominance.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_engage.gif" width="150"><br>
 shibc_engage.gif
 </td>
 
