@@ -93,8 +93,8 @@ etc_logo_1.png.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_2.png" width="150"><br>
-etc_logo_2.png
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_2.jpg" width="150"><br>
+etc_logo_2.jpg
 </td>
 
 <td valign="bottom">
