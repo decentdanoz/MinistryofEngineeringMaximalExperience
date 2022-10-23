@@ -1,18 +1,18 @@
-SHIBC Ministry of Engineering Maximal Experiences 
+# SHIBC Ministry of Engineering Maximal Experiences 
 
-SHIBCMEMES on the Code is Lawn Chain - Ethereum Classic
+## SHIBCMEMES on the Code is Lawn Chain - Ethereum Classic
 
 - 👋 Hi, I’m @shibcmemes
 - 👀 I’m interested in engineering maximal experiences
 - 💞️ I’m looking to collaborate on engineering maximal experiences
 - 📫 How to reach me: https://twitter.com/ShibcMemes
-
-
 - Resources will contain ETC and SHIBC ecosystem materials (media packs and images)
 - Memes will contain a composite of all that - so get creative!
 
 
-This repo will preserve the deep history of memes that comes from the Shiba Classic Community.
+### This repo will preserve the deep history of memes that comes from the Shiba Classic Community.
+
+<!-- SHIBC Memes Scroll -->
 
 <table><tr>
 <tr>
@@ -83,5 +83,53 @@ shibc_classic_image_2.png
 
 </tr></table>
 
-Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
+<!-- ETC Ecosystem Materials Scroll -->
+
+<table><tr>
+<tr>
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_1.png" width="150"><br>
+etc_logo_1.png.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_2" width="150"><br>
+etc_logo_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_3" width="150"><br>
+etc_logo_3.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_4" width="150"><br>
+etc_logo_4.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_5" width="150"><br>
+etc_logo_5.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_6" width="150"><br>
+etc_logo_6.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_7" width="150"><br>
+etc_logo_7.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_8" width="150"><br>
+etc_logo_8.png
+</td>
+
+</tr></table>
+
+<!-- Lazy Footer -->
+
+### Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
 ![221022-banner](https://user-images.githubusercontent.com/70056410/197374232-57d389a6-b69b-4d84-abe0-8cc61a8212b9.png)
