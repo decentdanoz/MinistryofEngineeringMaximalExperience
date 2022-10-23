@@ -16,17 +16,80 @@ This repo will preserve the deep history of memes that comes from the Shiba Clas
 
 Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
 
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/221022-banner.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/eat_your_gpu.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/etc_coleslaw.jpg" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/etcnft_memen.jpg" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_cheque.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_code_is_lawn_1.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_code_is_lawn_2.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_discus.gif" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_discus_etc.gif" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_dominance.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_engage.gif" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shining_shibc.gif" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_1.png" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_2.png" width=50% height=50%>
+---
+permalink: false
+---
+
+<table><tr>
+<tr>
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/221022-banner.png" width="150"><br>
+banner.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/eat_your_gpu.png" width="150"><br>
+eat_your_gpu.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/etc_coleslaw.jpg" width="150"><br>
+etc_coleslaw.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/etcnft_memen.jpg" width="150"><br>
+etcnft_memen.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_cheque.png" width="150"><br>
+shibc_cheque.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_code_is_lawn_1.png" width="150"><br>
+shibc_code_is_lawn_1.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_code_is_lawn_2.png" width="150"><br>
+shibc_code_is_lawn_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_discus.gif" width="150"><br>
+shibc_discus.gif
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_discus_etc.gif" width="150"><br>
+shibc_discus_etc.gif
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_dominance.png" width="150"><br>
+shibc_dominance.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/" width="150"><br>
+shibc_engage.gif
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shining_shibc.gif" width="150"><br>
+shining_shibc.gif
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_1.png" width="150"><br>
+shibc_classic_image_1.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_2.png" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+</tr></table>
