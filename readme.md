@@ -28,5 +28,5 @@ Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_dominance.png" width=50% height=50%>
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_engage.gif" width=50% height=50%>
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shining_shibc.gif" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_1.gif" width=50% height=50%>
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_2.gif" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_1.png" width=50% height=50%>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_classic_image_2.png" width=50% height=50%>
