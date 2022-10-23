@@ -19,11 +19,6 @@ Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/221022-banner.png" width="150"><br>
-banner.png
-</td>
-
-<td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/eat_your_gpu.png" width="150"><br>
 eat_your_gpu.png
 </td>
