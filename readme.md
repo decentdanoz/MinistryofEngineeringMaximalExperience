@@ -130,12 +130,40 @@ shibc_classic_image_2.png
 
 </tr></table>
 
+<!-- SHIBC Media Pack Materials Scroll -->
+
+<table><tr>
+<tr>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/shibc_logo.png" width="150"><br>
+shibc_logo.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/Shiba Classic ($SHIBC) on Ethereum Classic Network (ETC).mp4" width="150"><br>
+SHIBConETC.mp4
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/shibcc_logo_name.png" width="150"><br>
+shibcc_logo_name.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/shibc_logo_multicolour.gif" width="150"><br>
+shibc_logo_multicolour.gif
+</td>
+
+</tr></table>
+
 <!-- ETC Ecosystem Materials Scroll -->
 
 ### Please also enjoy some Ethereum Classic resources, to help you create More Enjoyable Maximal Experiences.
 
 <table><tr>
 <tr>
+
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_1.png" width="150"><br>
 etc_logo_1.png
