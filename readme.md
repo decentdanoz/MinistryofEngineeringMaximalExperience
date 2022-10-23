@@ -127,7 +127,7 @@ shibc_classic_image_2.png
 <tr>
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_1.png" width="150"><br>
-etc_logo_1.png.png
+etc_logo_1.png
 </td>
 
 <td valign="bottom">
