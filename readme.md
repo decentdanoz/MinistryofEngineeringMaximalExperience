@@ -16,10 +16,6 @@ This repo will preserve the deep history of memes that comes from the Shiba Clas
 
 Get featured in the banner by submitting the best SHIBCMEMES - Updated (at least) weekly!
 
----
-permalink: false
----
-
 <table><tr>
 <tr>
 <td valign="bottom">
