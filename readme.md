@@ -136,17 +136,17 @@ shibc_classic_image_2.png
 <tr>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/shibc_logo.png" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/resources/SHIBC Media Pack/shibc_logo.png" width="150"><br>
 shibc_logo.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/Shiba Classic ($SHIBC) on Ethereum Classic Network (ETC).mp4" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/resources/SHIBC Media Pack/Shiba Classic ($SHIBC) on Ethereum Classic Network (ETC).mp4" width="150"><br>
 SHIBConETC.mp4
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/shibcc_logo_name.png" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/resources/SHIBC Media Pack/shibcc_logo_name.png" width="150"><br>
 shibcc_logo_name.png
 </td>
 
