@@ -93,37 +93,37 @@ etc_logo_1.png.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_2" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_2.png" width="150"><br>
 etc_logo_2.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_3" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_3.png" width="150"><br>
 etc_logo_3.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_4" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_4.png" width="150"><br>
 etc_logo_4.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_5" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_5.png" width="150"><br>
 etc_logo_5.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_6" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_6.png" width="150"><br>
 etc_logo_6.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_7" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_7.png" width="150"><br>
 etc_logo_7.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_8" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/ETC%20Logos/etc_logo_8.png" width="150"><br>
 etc_logo_8.png
 </td>
 
