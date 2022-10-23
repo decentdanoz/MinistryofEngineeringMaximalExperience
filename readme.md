@@ -19,37 +19,37 @@
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/1_no_this.jpg" width="150"><br>
-shibc_classic_image_2.png
+1_no_this.jpg
 </td>
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/2_yes_this.jpg" width="150"><br>
-shibc_classic_image_2.png
+2_no_this.jpg
 </td>
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/mm_dip.jpg" width="150"><br>
-shibc_classic_image_2.png
+mm_dip.jpg
 </td>
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_etc_cmon.jpg" width="150"><br>
-shibc_classic_image_2.png
+shibc_etc_cmon.jpg
 </td>
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/simply_dip.jpg" width="150"><br>
-shibc_classic_image_2.png
+simply_dip.jpg
 </td>
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/slurp.jpg" width="150"><br>
-shibc_classic_image_2.png
+slurp.jpg
 </td>
 
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/this_man.jpg" width="150"><br>
-shibc_classic_image_2.png
+this_man.jpg
 </td>
 
 <td valign="bottom">
