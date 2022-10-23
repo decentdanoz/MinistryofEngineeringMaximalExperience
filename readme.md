@@ -151,7 +151,7 @@ shibcc_logo_name.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC%20Media%20Pack/shibc_logo_multicolour.gif" width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/tree/main/resources/SHIBC Media Pack/shibc_logo_multicolour.gif" width="150"><br>
 shibc_logo_multicolour.gif
 </td>
 
