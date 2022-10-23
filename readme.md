@@ -1,14 +1,14 @@
 # SHIBC Ministry of Engineering Maximal Experiences 
 
-## Memes from the Shiba Classic Community on the Code is Lawn Chain - Ethereum Classic
+## Memes from the **Shiba Classic** *Community* on the Code is Lawn Chain - **Ethereum Classic**
 https://www.shibaclassic.sc/
 
 - 👋 Hi, I’m @shibcmemes
 - 👀 I’m interested in engineering maximal experiences
 - 💞️ I’m looking to collaborate on engineering maximal experiences
 - 📫 How to reach me: https://twitter.com/ShibcMemes and https://t.me/ShibCtokenERC
-- 💯 Memes will contain SHIBC Memes
-- 🔥 Resources will contain ETC media
+- 💯 [Memes](./memes) will contain SHIBC Memes
+- 🔥 [Resources](./resources) will contain ETC media
 
 
 ### This repo will preserve the deep history of memes that comes from the Shiba Classic Community.
