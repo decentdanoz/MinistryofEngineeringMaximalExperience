@@ -16,6 +16,42 @@
 
 <table><tr>
 <tr>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/1_no_this.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/2_yes_this.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/mm_dip.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_etc_cmon.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/simply_dip.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/slurp.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/this_man.jpg" width="150"><br>
+shibc_classic_image_2.png
+</td>
+
 <td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/eat_your_gpu.png" width="150"><br>
 eat_your_gpu.png
