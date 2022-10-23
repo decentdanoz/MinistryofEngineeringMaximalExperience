@@ -6,7 +6,7 @@
 - 👀 I’m interested in engineering maximal experiences
 - 💞️ I’m looking to collaborate on engineering maximal experiences
 - 📫 How to reach me: https://twitter.com/ShibcMemes
-- Resources will contain ETC and SHIBC ecosystem materials (media packs and images)
+- Resources will contain SHIBC MEMES and ETC ecosystem materials (smol media pack)
 - Memes will contain a composite of all that - so get creative!
 
 
