@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @shibcmemes
 - 👀 I’m interested in engineering maximal experiences
 - 💞️ I’m looking to collaborate on engineering maximal experiences
-- 📫 How to reach me: https://twitter.com/ShibcMemes
+- 📫 How to reach me: https://twitter.com/ShibcMemes and https://t.me/ShibCtokenERC
 - Resources will contain SHIBC MEMES and ETC ecosystem materials (smol media pack)
 - Memes will contain a composite of all that - so get creative!
 
