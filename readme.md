@@ -85,6 +85,8 @@ shibc_classic_image_2.png
 
 <!-- ETC Ecosystem Materials Scroll -->
 
+### Please also enjoy some Ethereum Classic resources, to help you create more Maximal Experiences.
+
 <table><tr>
 <tr>
 <td valign="bottom">
