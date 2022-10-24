@@ -19,6 +19,21 @@ https://www.shibaclassic.sc/
 <tr>
 
 <td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibchin.gif" width="150"><br>
+shibchin.gif
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_think_different_mc.jpg" width="150"><br>
+shibc_think_different_mc.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_think_different_stock.jpg" width="150"><br>
+shibc_think_different_stock.jpg
+</td>
+
+<td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_pizza.png" width="150"><br>
 shibc_pizza.png
 </td>
