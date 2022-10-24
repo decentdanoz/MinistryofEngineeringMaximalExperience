@@ -19,6 +19,11 @@ https://www.shibaclassic.sc/
 <tr>
 
 <td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_dove.gif" width="150"><br>
+shibc_dove.gif
+</td>
+
+<td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_dawgs_suspense.jpg" width="150"><br>
 shibc_dawgs_suspense.jpg
 </td>
