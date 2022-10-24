@@ -134,7 +134,7 @@ shibc_classic_image_2.png
 </td>
 
 <td valign="bottom">
-<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shib_vitalik_shibc_gf.jpg width="150"><br>
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shib_vitalik_shibc_gf.jpg" width="150"><br>
 shib_vitalik_shibc_gf.jpg
 </td>
 
