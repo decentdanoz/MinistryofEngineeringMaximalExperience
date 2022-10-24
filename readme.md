@@ -200,6 +200,25 @@ shibc_vitalik.jpg
 
 </tr></table>
 
+<!-- SHIBC Media Pack Scroll -->
+
+### SHIBC Media Pack, containing stock media and branding to help you create SHIBC memes.
+
+<table><tr>
+<tr>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/SHIBC%20Media%20Pack/Shiba%20Classic%20($SHIBC)%20on%20Ethereum%20Classic%20Network%20(ETC).mp4" width="150"><br>
+Shiba Classic ($SHIBC) on Ethereum Classic Network (ETC).mp4
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/SHIBC%20Media%20Pack/shibc_logo.png" width="150"><br>
+shibc_logo.png
+</td>
+
+</tr></table>
+
 <!-- ETC Ecosystem Materials Scroll -->
 
 ### Please also enjoy some Ethereum Classic resources, to help you create More Enjoyable Maximal Experiences.
