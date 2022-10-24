@@ -213,6 +213,16 @@ shibc_logo_multicolour.gif
 </td>
 
 <td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/SHIBC%20Media%20Pack/shibc_think_different_mc.jpg" width="150"><br>
+shibc_think_different_mc.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/SHIBC%20Media%20Pack/shibc_think_different_stock.jpg" width="150"><br>
+shibc_think_different_stock.jpg
+</td>
+
+<td valign="bottom">
 <img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/resources/SHIBC%20Media%20Pack/Shiba%20Classic%20($SHIBC)%20on%20Ethereum%20Classic%20Network%20(ETC).mp4" width="150"><br>
 Shiba Classic ($SHIBC) on Ethereum Classic Network (ETC).mp4
 </td>
