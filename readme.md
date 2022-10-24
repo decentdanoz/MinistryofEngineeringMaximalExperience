@@ -133,6 +133,51 @@ shibc_classic_image_1.png
 shibc_classic_image_2.png
 </td>
 
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shib_vitalik_shibc_gf.jpg width="150"><br>
+shib_vitalik_shibc_gf.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_5mc.jpg" width="150"><br>
+shibc_5mc.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_bob_ross.jpg" width="150"><br>
+shibc_bob_ross.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_fathonya8.jpg" width="150"><br>
+shibc_fathonya8.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_great_story.jpg" width="150"><br>
+shibc_great_story.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_nevaknow.jpg" width="150"><br>
+shibc_nevaknow.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_normal_productive.jpg" width="150"><br>
+shibc_normal_productive.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_squid_game.jpg" width="150"><br>
+shibc_squid_game.jpg
+</td>
+
+<td valign="bottom">
+<img src="https://github.com/shibcmemes/MinistryofEngineeringMaximalExperiences/blob/main/memes/shibc_vitalik.jpg" width="150"><br>
+shibc_vitalik.jpg
+</td>
+
 </tr></table>
 
 <!-- ETC Ecosystem Materials Scroll -->
