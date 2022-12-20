@@ -111,9 +111,8 @@ th, td {
   th, td {
     border-color: #666;
   }
-  .gistContainer {
+  gistContainer {
     width: 90%;
     margin: 0 auto;
     text-align: center;
   }
-}
