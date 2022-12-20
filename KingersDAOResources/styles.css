@@ -111,12 +111,9 @@ th, td {
   th, td {
     border-color: #666;
   }
-  gistContainer {
-    width: 90%;
-    margin: 0 auto;
-    text-align: center;
-  }
-  p1 {
-  margin: 1.25em 0 0.5em 0;
-  line-height: 1.2;
-  }
+			.gistContainer {
+			width: 60%;
+			margin: 0 auto;
+			text-align: center;
+			}
+}
